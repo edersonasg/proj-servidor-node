@@ -1,0 +1,53 @@
+body {
+    background-color: #6c8aa9 !important;
+    width: 100%;
+}
+
+#entradas {
+    margin-top: 50%;
+}
+
+#entradas>h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+#entradas>div {
+    text-align: center;
+}
+
+#entradas input {
+    width: 90%;
+    height: 90px;
+    border: 7px solid #12045a;
+    border-radius: 10px;
+    font-size: 50px;
+    padding-left: 5%;
+}
+
+input {
+    margin-top: 10% !important;
+}
+
+#botao {
+    margin-top: 10%;
+    /* margin: auto; */
+    text-align: center;
+}
+
+#botao button {
+    background: #12045a;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 1% 30%;
+}
+
+#delta,
+#resultado1,
+#resultado2 {
+    font-size: 50px;
+    margin-top: 10%;
+    color: red;
+}

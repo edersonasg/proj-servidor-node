@@ -1,0 +1,16 @@
+{
+    "public_folder": "/vendor",
+    "library_modules": [{
+            "name": "jquery",
+            "folder": "node_modules/jquery/dist"
+        },
+        {
+            "name": "popper.js",
+            "folder": "node_modules/popper.js/dist/umd"
+        },
+        {
+            "name": "bootstrap",
+            "folder": "node_modules/bootstrap/dist"
+        }
+    ]
+}
